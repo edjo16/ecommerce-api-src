@@ -1,0 +1,5 @@
+node_modules
+.stryker-tmp\sandbox-IqhiP8\node_modules
+.stryker-tmp/
+coverage/
+
